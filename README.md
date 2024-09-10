@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou Nelson!
-
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nelsolaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 Bem-vindo ao meu perfil do GitHub! Sou desenvolvedor front-end apaixonado por criar interfaces incríveis e experiências de usuário eficientes. Atualmente, estou no primeiro semestre de Ciências da Computação e sempre buscando aprender mais e melhorar minhas habilidades.
 
 ## 🚀 Minhas Habilidades
