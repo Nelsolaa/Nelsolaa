@@ -12,6 +12,7 @@ Bem-vindo ao meu perfil do GitHub! Sou desenvolvedor front-end apaixonado por cr
 - **Bibliotecas e Frameworks:**
   - Tailwind CSS
   - Bootstrap
+  - React
 
 ## 💼 Projetos
 
