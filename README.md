@@ -37,6 +37,5 @@ Projeto que eu fiz baseado no linktree
 - Apaixonado por tecnologia e inovação.
 - Sempre disposto a aprender algo novo e enfrentar desafios.
 - Interessado em participar de projetos open-source e colaborar com a comunidade.
-- Sou lutador de Jiu Jitsu, Wrestling e judô 
 
 Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo.
