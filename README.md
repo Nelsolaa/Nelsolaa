@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  📍 Fortaleza, Brasil | [cite_start]🎓 Estudante de Ciência da Computação [cite: 1, 8]
+  📍 Fortaleza, Brasil | 🎓 Estudante de Ciência da Computação
 </p>
 
 <p align="center">
@@ -17,11 +17,11 @@
 
 ### 👨‍💻 Sobre mim
 
-- [cite_start]💼 Atualmente atuando como **Estagiário Full Stack no Banco do Nordeste**, desenvolvendo ferramentas internas e portais modernos[cite: 4, 5].
-- [cite_start]⚙️ Focado em automação de infraestrutura com Python, integração de APIs SOAP e otimização de consultas SQL complexas[cite: 4, 5].
-- [cite_start]📊 Experiência na criação de dashboards em tempo real (Grafana/InfluxDB) para monitorização e observabilidade de sistemas[cite: 3, 6].
-- [cite_start]🧠 Explorando conceitos de Machine Learning para análise de padrões preditivos em infraestrutura[cite: 7].
-- [cite_start]📚 Cursando Ciência da Computação na Unifor (2024-2027) e formado como Programador Full-Stack pela Digital College[cite: 8].
+- 💻 **Desenvolvedor Full Stack** com forte atuação na construção de sistemas de ponta a ponta, utilizando ecossistemas React, TypeScript, C# e Python.
+- 🤖 Aprofundando estudos em **Engenharia de Inteligência Artificial** e Ciência de Dados, focado na arquitetura e construção de agentes autônomos do zero.
+- 🛠️ Criador de soluções práticas: desenvolvendo ativamente o **AI BetScore** (bot analítico integrado via FastAPI) e entregando plataformas web completas para negócios locais (como catálogos digitais e sistemas de pedidos).
+- ⚙️ Entusiasta de infraestrutura e automação: de otimizações de consultas SQL complexas e dashboards de observabilidade (Grafana/InfluxDB) à montagem e gerência do meu próprio **Home Server** em arquitetura Xeon com Docker.
+- 📚 Cursando Ciência da Computação na Unifor (2024-2027) e formado como Programador Full-Stack pela Digital College.
 
 ---
 
@@ -35,23 +35,22 @@
 
 **Backend & Dados:** <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
 
 **DevOps & Ferramentas:** <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 
-[cite_start]*[Nota: As linguagens e ferramentas listadas acima foram extraídas do seu currículo ]*
 
 ---
 
 ### 🚀 Projetos em Destaque
 
-* 🐶 **[Snoopy Finance](https://github.com/Nelsolaa/Snoopy-Finance/)**: Aplicação full-stack de gestão financeira com arquitetura em camadas e autenticação segura. [cite_start]Feita com Alpine.js, Python (Flask) e PostgreSQL[cite: 9, 10, 11].
-* 🏋️ **[API UniGym](https://github.com/Nelsolaa/Api-UniGym/)**: API RESTful robusta para gestão de academias, implementando JWT e roteamento modular. [cite_start]Feita com Node.js, Express e Sequelize[cite: 11, 12, 13].
-* [cite_start]📈 **[Newton-Raphson Visualizer](https://nelsolaa.github.io/Calculo-de-Integral/)**: App web interativo para renderizar gráficos sincronizados em tempo real, construído com Vanilla JS e Plotly.js[cite: 13, 14].
+* 🐶 **[Snoopy Finance](https://github.com/Nelsolaa/Snoopy-Finance/)**: Aplicação full-stack de gestão financeira com arquitetura em camadas e autenticação segura. Feita com Alpine.js, Python (Flask) e PostgreSQL.
+* 🏋️ **[API UniGym](https://github.com/Nelsolaa/Api-UniGym/)**: API RESTful robusta para gestão de academias, implementando JWT e roteamento modular. Feita com Node.js, Express e Sequelize.
+* 📈 **[Newton-Raphson Visualizer](https://nelsolaa.github.io/Calculo-de-Integral/)**: App web interativo para renderizar gráficos sincronizados em tempo real, construído com Vanilla JS e Plotly.js.
 
 ---
 
